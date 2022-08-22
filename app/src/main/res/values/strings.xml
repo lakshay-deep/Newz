@@ -3,4 +3,16 @@
 
     <string name="please_check_your_internet_connection">Please check your internet connection</string>
     <string name="something_went_wrong">Something went wrong</string>
+
+    <!-- PlaceHolder Text -->
+    <string name="title">Toyota has reportedly agreed to bring Android Auto to</string>
+    <string name="description">A plane flies through the eye of Hurricane Florence</string>
+    <string name="site">theguardian.com</string>
+    <string name="time_ago">2hr</string>
+    <string name="tag">SCIENCE</string>
+    <string name="temperature">18°C in Pune</string>
+    <string name="temp_type">Mostly Cloudy</string>
+    <string name="temp_min_max">26°C / 18°C</string>
+    <string name="humidity">60% today</string>
+
 </resources>

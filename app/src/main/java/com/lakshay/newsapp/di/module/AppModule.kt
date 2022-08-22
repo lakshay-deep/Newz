@@ -36,5 +36,5 @@ abstract class AppModule {
 
     @Binds
     @Singleton
-    abstract fun provideMovieRepository(movieRepositoryImpl: NewsRepositoryImpl): NewsRepository
+    abstract fun provideNewsRepository(newsRepositoryImpl: NewsRepositoryImpl): NewsRepository
 }

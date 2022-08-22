@@ -1,3 +1,5 @@
+package com.lakshay.newsapp.di.module
+
 import android.util.Log
 import com.lakshay.newsapp.data.exception.NoConnectivityException
 import com.lakshay.newsapp.di.qualifiers.NewsLoggingInterceptor

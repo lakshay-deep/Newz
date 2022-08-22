@@ -1,3 +1,5 @@
+package com.lakshay.newsapp.di.module
+
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import dagger.Module
@@ -14,7 +16,8 @@ import javax.inject.Singleton
 class RetrofitModule {
 
     companion object {
-        private const val BASE_URL = "https://api.themoviedb.org/3/"
+        private const val BASE_URL_RELEASE = "https://newsapi.org/v2/"
+        private const val BASE_URL = BASE_URL_RELEASE
     }
 
 
